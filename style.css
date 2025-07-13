@@ -11,4 +11,26 @@
     width: 70%;
     text-align: center;
     margin: 0 auto 1rem;
+    color: #aaaaaa;
+}
+.btn {
+    position: absolute;
+    right: 4vw;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    color: white;
+    font-size: 1.4rem;
+    background-color: #aaaaaa88;
+}
+.btn:hover {
+    cursor: pointer;
+    font-size: 1.6rem;
+    box-shadow: 10px 10px 5px #aaaaaa88;
+}
+.colorInput {
+    position: absolute;
+    left: 4vw;
+    width: 70px;
+    height: 35px;
 }
