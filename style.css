@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    width: 900px;
+    height: 900px;
+    background-color: #aaaaaa88;
+    margin: 0 auto;
+}
+.header {
+    width: 70%;
+    text-align: center;
+    margin: 0 auto 1rem;
+}
